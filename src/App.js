@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Simple Dockerized React App Building. XYZ
+          Simple Dockerized React App Building. XYZ ...... THis is the my first github project .
+          
         </p>
         <a
           className="App-link"
